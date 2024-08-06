@@ -24,3 +24,14 @@
     border-radius: 8px;
     border: 0px;
 }
+@media (max-width: 600px) { 
+    body{
+        font-size: small;
+    }
+    #pfp{
+        height: 250px;
+    }
+    .text{
+        text-align: center;
+    }
+}
