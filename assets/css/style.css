@@ -1,0 +1,26 @@
+#pfp{
+    border-radius: 50%;
+    height: 500px;
+}
+.gradient-background {
+    background: linear-gradient(300deg, #3ABEF9, #3572EF, #050C9C);
+    background-size: 180% 180%;
+    animation: gradient-animation 10s ease infinite;
+}
+.nav-item{
+    border-radius: 6px;
+    font-size: 17px;
+}
+#resume{
+    background: linear-gradient(300deg, #3572EF, #E2E2B6, #3ABEF9);
+    background-size: 120% 120%;
+    animation: gradient-animation 10s ease infinite;
+    border-radius: 6px;
+    color: black;
+    font-size: 20px;
+}
+#contact-btn{
+    font-size: 20px;
+    border-radius: 8px;
+    border: 0px;
+}
